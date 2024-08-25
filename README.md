@@ -11,4 +11,6 @@
 
 <!-- Add Google Font link -->
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
-![todolist](https://github.com/user-attachments/assets/c0342550-dd94-4144-86fd-28cdb89214c0)
+
+<!-- Markdown for the image -->
+![To-Do List Screenshot](https://github.com/user-attachments/assets/c0342550-dd94-4144-86fd-28cdb89214c0)
